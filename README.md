@@ -11,6 +11,6 @@ require(123456787)("mcv5_loader_id:"ffhdsyf8f87dsf87yds78yffs8fsd87fsd78);
 ```
 We're going to want to change the numbers to
 ```
-require(script.Parent.NameOfModule);
+require(script.Parent.NameOfModule)(theotherrandomthing);
 ```
 From here you should be able to make changes to the module, and it show up in your game.
